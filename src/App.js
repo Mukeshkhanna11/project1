@@ -16,6 +16,7 @@ const App = () => {
         <>
           <h1>there is no name</h1>
           <h1>thank you</h1>
+          <h1>thank you all</h1>
         </>
       )} */}
 
